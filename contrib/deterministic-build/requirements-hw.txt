@@ -17,7 +17,7 @@ colorama==0.4.1 \
     --hash=sha256:f8ac84de7840f5b9c4e3347b3c1eaa50f7e49c2b07596221daec5edaabbd7c48
 construct==2.9.45 \
     --hash=sha256:2271a0efd0798679dea825ff47e22a4c550456a5db0ba8baa82f7eae0af0118c
-ecdsa==0.13.3 \
+ecdsa==0.14 \
     --hash=sha256:9814e700890991abeceeb2242586024d4758c8fc18445b194a49bd62d85861db \
     --hash=sha256:163c80b064a763ea733870feb96f9dd9b92216cfcacd374837af18e4e8ec3d4d
 hidapi==0.7.99.post21 \
@@ -100,7 +100,7 @@ typing-extensions==3.7.4 \
     --hash=sha256:2ed632b30bb54fc3941c382decfd0ee4148f5c591651c9272473fea2c6397d95 \
     --hash=sha256:b1edbbf0652660e32ae780ac9433f4231e7339c7f9a8057d0f042fcbcea49b87 \
     --hash=sha256:d8179012ec2c620d3791ca6fe2bf7979d979acdbef1fca0bc56b37411db682ed
-urllib3==1.25.3 \
+urllib3==1.25.9 \
     --hash=sha256:b246607a25ac80bedac05c6f282e3cdaf3afb65420fd024ac94435cabe6e18d1 \
     --hash=sha256:dbe59173209418ae49d485b87d1681aefa36252ee85884c31346debd19463232
 wheel==0.33.6 \
