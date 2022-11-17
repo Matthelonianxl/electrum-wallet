@@ -51,7 +51,7 @@ click==6.7 \
 dnspython==1.16.0 \
     --hash=sha256:36c5e8e38d4369a08b6780b7f27d790a292b2b08eea01607865bf0936c558e01 \
     --hash=sha256:f69c21288a962f4da86e56c4905b49d11aba7938d3d740e80d9e366ee4f1632d
-ecdsa==0.13.3 \
+ecdsa==0.14 \
     --hash=sha256:9814e700890991abeceeb2242586024d4758c8fc18445b194a49bd62d85861db \
     --hash=sha256:163c80b064a763ea733870feb96f9dd9b92216cfcacd374837af18e4e8ec3d4d
 idna==2.8 \
@@ -156,7 +156,7 @@ QDarkStyle==2.6.8 \
 qrcode==6.1 \
     --hash=sha256:3996ee560fc39532910603704c82980ff6d4d5d629f9c3f25f34174ce8606cf5 \
     --hash=sha256:505253854f607f2abf4d16092c61d4e9d511a3b4392e60bff957a68592b04369
-setuptools==41.1.0 \
+setuptools==65.5.1 \
     --hash=sha256:bce3560fae29e9efa45fdb6e9fceddb1cde0cccebb050ee134262283b3ccbc7b \
     --hash=sha256:c519b84c299911fd94ef47e3de4fe678c254aefc5cdf8a9b12e4cdc8cc3744a8
 six==1.12.0 \
