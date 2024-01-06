@@ -119,7 +119,7 @@ protobuf==3.9.1 \
     --hash=sha256:fcff6086c86fb1628d94ea455c7b9de898afc50378042927a59df8065a79a549
 pyaes==1.6.1 \
     --hash=sha256:02c1b1405c38d3c370b085fb952dd8bea3fadcee6411ad99f312cc129c536d8f
-pycryptodomex==3.8.2 \
+pycryptodomex==3.19.1 \
     --hash=sha256:029c7a150347c81899c14de0e4d5f918b8a0c68e8b0108dbe6192ad24358a845 \
     --hash=sha256:08f0f3f89e6561f3c7ad99c4fb5f4a5b596701edb0aa92ac32c166b615517740 \
     --hash=sha256:09d1d8aa842ba3d2d18c7bca1233a3d3ab0b083f657bb9f57adfd4fee5d7f02d \
