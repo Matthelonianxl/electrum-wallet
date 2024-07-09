@@ -13,3 +13,4 @@ pycryptodomex>=3.7
 jsonrpcserver
 jsonrpcclient
 lyra2re2_hash>=1.2.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
